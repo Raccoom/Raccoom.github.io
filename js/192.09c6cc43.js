@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkboke"]=self["webpackChunkboke"]||[]).push([[192],{2963:function(e,t,r){r.r(t),r.d(t,{default:function(){return o}});var u=function(){var e=this,t=e._self._c;return t("router-view",{attrs:{userID:e.id}})},n=[],s={name:"viewOne",data(){return{text:"这是文字内容",id:this.$route.params.id}}},a=s,i=r(3736),l=(0,i.Z)(a,u,n,!1,null,null,null),o=l.exports}}]);
+//# sourceMappingURL=192.09c6cc43.js.map
